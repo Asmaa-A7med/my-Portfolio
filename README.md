@@ -15,7 +15,4 @@ The project consists of multiple sections showcasing personal details, skills, a
 - TypeScript  
 - HTML & CSS  & Bootstrap
 
-## 🚀 How to Run the Project  
-1. Clone the repository:  
-   ```bash
-   git clone <repo-link>
+
