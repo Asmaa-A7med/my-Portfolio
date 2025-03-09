@@ -1,0 +1,31 @@
+.about-section {
+    padding: 80px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .about-title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #063377;
+    text-transform: uppercase;
+  }
+  
+  .about-text {
+    font-size: 1.2rem;
+    color: #333;
+    max-width: 600px;
+  }
+  
+  .about-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    transition: 0.3s;
+  }
+  
+  .about-btn:hover {
+    background-color: #032c73;
+    border-color: #90a8d3;
+  }
+  
